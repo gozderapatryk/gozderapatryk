@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=2000&random=true&width=435&lines=Hello!+How+is+it+going%3F;Hola!+Qu%C3%A9+tal%3F;Cze%C5%9B%C4%87!+Co+s%C5%82ycha%C4%87%3F)](https://git.io/typing-svg)
 
 <!--
 **gozderapatryk/gozderapatryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
